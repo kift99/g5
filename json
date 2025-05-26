@@ -1,0 +1,11 @@
+{
+    "event_type": "bounce",
+    "email": "gjb7izw65p@qzueos.com",
+    "bounce_type": "hard"  
+}
+
+{
+    "event_type": "open",
+    "email": "gjb7izw65p@qzueos.com",
+    "ip_address": "123.45.67.89"
+}
